@@ -97,7 +97,7 @@ a = Analysis(
 './data_mining/utils/exceptions.py',
 './data_mining/utils/mlflow_utils.py',
 './data_mining/utils/__init__.py',],
-    pathex=['%USERPROFILE%/Desktop/gg/geochemistrypi'],
+    pathex=['.'],
     binaries=binaries,
     datas=datas,
     hiddenimports=hiddenimports,
